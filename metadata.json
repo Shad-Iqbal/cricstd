@@ -1,0 +1,6 @@
+{
+  "name": "Cricket Scoring MVP",
+  "description": "Live scoreboard and ball-by-ball capture for indoor cricket.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
